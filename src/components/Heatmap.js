@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 function Heatmap() {
-    return (
-        <div>
-            
-        </div>
-    )
+  return (
+    <div />
+  );
 }
 
-export default Heatmap
+export default Heatmap;

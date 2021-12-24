@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 function Navbar() {
-    return (
-        <div>
-            
-        </div>
-    )
+  return (
+    <div>
+      this is navbar
+    </div>
+  );
 }
 
-export default Navbar
+export default Navbar;
